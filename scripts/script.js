@@ -16,6 +16,7 @@ function draw() {
   x+=0.1
   ceu.draw();
   flor.draw();
+  ellipse(x,200,20);
 
 }
 
